@@ -15,13 +15,11 @@ For this project I used the android studio IDE and the Kotlin language. It is th
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [w3adda.com](w3adda.com/kotlin-tutorial)
+* [android tutorial](https://developer.android.com/codelabs/build-your-first-android-app-kotlin#0)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Make the button fit better to the size of the screen
+* Add a high score area
+* Make it easier to look at
